@@ -1,0 +1,16 @@
+python
+bz2file
+cython
+pip
+numpy
+jupyter
+matplotlib
+setuptools
+scikit-learn
+scipy
+pandas
+pillow
+seaborn
+pytest
+twisted
+tensorflow

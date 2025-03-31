@@ -1,8 +1,8 @@
-name: ztdl
+name: ztdltest
 channels:
 - defaults
 dependencies:
-- python=3.7.*
+- python
 - bz2file==0.98
 - cython==0.29.*
 - pip==21.0.*
@@ -18,4 +18,4 @@ dependencies:
 - pytest==6.2.*
 - twisted==21.2.*
 - pip:
-  - tensorflow==2.5.*
+  - tensorflow
